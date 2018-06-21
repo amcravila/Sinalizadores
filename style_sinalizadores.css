@@ -1,19 +1,18 @@
-.caixinha {
-  width: 1200px;
-  height: 50px;
-  background-color: yellow;
-  display: block;
-  margin: 10px;
-}
-
 .primeira {
+  background-color: yellow;
+  height: 50px;
+  margin: 10px;
 }
 
 .segunda {
   background-color: #000;
   color: #FFF;
+  height: 50px;
+  margin: 10px;
 }
 
 .terceira {
-
+  background-color: yellow;
+  height: 50px;
+  margin: 10px;
 }
