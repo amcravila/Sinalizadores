@@ -1,0 +1,21 @@
+.primeira {
+  background-color: yellow;
+  height: 100px;
+  width: 120px;
+  margin: 10px;
+}
+
+.segunda {
+  background-color: #000;
+  color: #FFF;
+  height: 100px;
+  width: 120px;
+  margin: 10px;
+}
+
+.terceira {
+  background-color: yellow;
+  height: 100px;
+  width: 120px;
+  margin: 10px;
+}
