@@ -1,0 +1,24 @@
+.primeira {
+  background-color: yellow;
+  margin: 10px;
+  display: inline-block;
+  width: 150px;
+  height: 100px;
+}
+
+.segunda {
+  background-color: #000;
+  color: #FFF;
+  margin: 10px;
+  display: inline-block;
+  width: 150px;
+  height: 100px;
+}
+
+.terceira {
+  background-color: yellow;
+  margin: 10px;
+  display: inline-block;
+  width: 150px;
+  height: 100px;
+}
